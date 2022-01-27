@@ -1,3 +1,5 @@
 This is a chat application.
 emoji
 typing option
+dark mode
+color varible
